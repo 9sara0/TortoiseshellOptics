@@ -32,7 +32,6 @@ body {
 .header {
   background-color: cadetblue;
   color: white;
-  margin-bottom: 10rem;
 }
 
 .logo {
@@ -47,4 +46,22 @@ body {
 
 li {
   padding: 1rem 2rem;
+}
+
+#headline{
+  position: relative;
+  top: 10rem;
+  left: 2rem;
+  font-size: 2rem;
+  line-height: 1.2;
+  font-weight: bold;
+}
+
+#headline.flex-container {
+  justify-content: flex-end;
+}
+
+.headline {
+  background-color: white;
+  padding: 1.5rem 5rem;
 }
