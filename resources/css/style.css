@@ -17,6 +17,7 @@ body {
   margin: 0 auto;
   display: flex;
   align-items: center;
+  justify-content: space-between;;
 }
 
 .banner {
@@ -24,5 +25,26 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  padding-top: 1rem;
   height: 30rem;
+}
+
+.header {
+  background-color: cadetblue;
+  color: white;
+  margin-bottom: 10rem;
+}
+
+.logo {
+  margin-left: 2rem;
+}
+
+.logo img {
+  height: 1.5rem;
+  padding-right: 1rem;
+  padding-left: 2rem;
+}
+
+li {
+  padding: 1rem 2rem;
 }
