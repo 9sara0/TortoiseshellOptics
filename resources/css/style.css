@@ -85,6 +85,8 @@ li {
 
 .info {
   align-items: flex-start;
+  justify-content: center;
+
 }
 
 .sub-info {
@@ -95,8 +97,20 @@ li {
 }
 
 .sub-info h3 {
-  margin-bottom: 1rem;
   background-color: cadetblue;
+  color: white;
   padding: 0.5rem 1.25rem;
+  margin-bottom: 1rem;
   max-width: 10rem;
+}
+
+.footer {
+  background-color: azure;
+  justify-content: flex-start;
+  height: 1.5rem;
+  padding: 4rem;
+}
+
+.footer img {
+  margin-right: 1rem;
 }
