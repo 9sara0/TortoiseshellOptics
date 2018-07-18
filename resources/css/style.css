@@ -65,3 +65,20 @@ li {
   background-color: white;
   padding: 1.5rem 5rem;
 }
+
+.promises {
+  justify-content: center;
+}
+
+.promise {
+  flex-direction: column;
+  text-align: center;
+  width: 5rem;
+  height: 8rem;
+  margin: 3rem;
+}
+
+.promise img {
+  width: 3.5rem;
+  height: auto;
+}
