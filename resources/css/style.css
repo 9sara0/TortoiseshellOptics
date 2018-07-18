@@ -98,4 +98,5 @@ li {
   margin-bottom: 1rem;
   background-color: cadetblue;
   padding: 0.5rem 1.25rem;
+  max-width: 10rem;
 }
