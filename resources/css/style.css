@@ -114,3 +114,14 @@ li {
 .footer img {
   margin-right: 1rem;
 }
+
+
+@media only screen and (max-width: 1125px) {
+  .container {
+    max-width: 100%;
+  }
+
+  .flex-container {
+    max-width: 100%;
+  }
+}
