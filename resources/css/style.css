@@ -184,7 +184,7 @@ li {
     font-size: 1rem;
     margin: 0;
   }
-  
+
   .promises,
   .info {
     width: 100%;
@@ -221,4 +221,8 @@ li {
     padding: 0 1rem;
   }
 
+  .footer img {
+    display: block;
+    margin: 0 auto;
+  }
 }
