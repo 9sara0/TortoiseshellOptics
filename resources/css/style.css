@@ -158,3 +158,12 @@ li {
     background-position: 20%;
   }
 }
+
+@media only screen and (max-width: 588px) {
+  .flex-container {
+    align-items: center;
+  }
+  .banner {
+    height: 17rem;
+  }
+}
