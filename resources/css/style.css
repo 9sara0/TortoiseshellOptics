@@ -166,4 +166,10 @@ li {
   .banner {
     height: 17rem;
   }
+
+  .logo span,
+  .footer span {
+    display: none;
+  }
+
 }
