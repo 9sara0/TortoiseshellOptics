@@ -172,4 +172,17 @@ li {
     display: none;
   }
 
+  #headline{
+    width: 100%;
+    top: 9rem;
+    text-align: center;
+  }
+
+  .headline {
+    width: 100%;
+    padding: 1rem 0;
+    font-size: 1rem;
+    margin: 0;
+  }
+
 }
